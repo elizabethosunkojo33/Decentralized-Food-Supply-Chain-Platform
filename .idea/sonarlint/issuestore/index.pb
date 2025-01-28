@@ -7,3 +7,5 @@ R
 "tests/product-registration.test.ts,d/0/d013af03e56d1e1dfff08e30a2442b43c3a73245
 W
 'contracts/transportation-logistics.clar,4/c/4ce3e34cd8f0b26f072f00a8069b9e08acc9bd8e
+V
+&tests/transportation-logistics.test.ts,7/2/72164e736927737d849c41de14100ce903b0d91b
